@@ -16,7 +16,7 @@ module.exports = defineConfig({
 
     headless: false,
     actionTimeout: 15000,
-    slowMo: 2000,
+    slowMo: 3000,
      
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
